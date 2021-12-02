@@ -1,1 +1,1 @@
-Cambios en el archivo de texto
+Version 2.1: se arreglan errores del programa

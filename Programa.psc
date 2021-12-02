@@ -18,7 +18,7 @@ Proceso ProgramaGIT
 	Para i<-0 hasta 10
 		Escribir "ALUMNO N? ",i+1,nombre[i];
 	FinPara
-	
+	//Comentario de prueba
 	
 	
 	

@@ -1,1 +1,1 @@
-VERSION 3.0: el programa permite ahora al usuario indicar el nº de alumnos que hay en clase
+VERSION 3.0: el programa permite ahora al usuario indicar el nº de alumnos que hay en clase. Errores resueltos
